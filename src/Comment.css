@@ -1,0 +1,11 @@
+
+
+.Comment {
+    padding: 10px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.Comment > h4,
+.Comment > p {
+    margin: 0;
+}
